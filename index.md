@@ -19,4 +19,4 @@ GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages.
 
 The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
- [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) 
+ [Documentation](https://help.github.com/categories/github-pages-basics/) or [Contact support](https://github.com/contact) 
