@@ -8,7 +8,7 @@ Hope to be energetic forever.
 
 **活力永驻**
 
-<font color=#0099ff size=10 face="黑体">冀</font> 
+<font size=20>冀</font> 
 
 ## Editing
 
