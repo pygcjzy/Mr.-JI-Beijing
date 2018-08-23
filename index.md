@@ -1,14 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome
 
 Mr.JI @ Beijing
+Hope to be energetic forever.
+
+## Editing
+
 
 I am using the [editor on GitHub](https://github.com/pygcjzy/test180823/edit/master/index.md) to maintain and preview the content.
 
 GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Markdown Conventions
 
 ```markdown
 Syntax highlighted code block
@@ -30,10 +32,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Support
+The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pygcjzy/test180823/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) 
+ [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) 
